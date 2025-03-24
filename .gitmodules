@@ -1,0 +1,3 @@
+[submodule "project/react-fitness"]
+	path = project/react-fitness
+	url = git@github.com:suksencream/kalorie_app.git
